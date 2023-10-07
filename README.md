@@ -120,7 +120,7 @@ Contributions to the MRUCache project are welcome! If you'd like to contribute, 
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE License. See the [LICENCE](LICENSE) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](LICENSE) file for details.
 
 ---
 
